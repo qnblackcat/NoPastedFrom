@@ -1,7 +1,7 @@
 Package: com.brend0n.nopastedfrom
 Name: NoPastedFrom
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: No "XX pasted from YY"
 Maintainer: Brend0n <brendonjkding@126.com>

@@ -1,10 +1,6 @@
-ifdef SIMULATOR
-TARGET = simulator:clang:latest:8.0
-else
-TARGET = iphone:clang:latest:7.0
+TARGET = iphone:clang:latest:14.0
 ARCHS = arm64 arm64e
-endif
-
+FINALPACKAGE = 1
 INSTALL_TARGET_PROCESSES = druid
 
 TWEAK_NAME = NoPastedFrom
