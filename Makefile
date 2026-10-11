@@ -1,6 +1,5 @@
 TARGET = iphone:clang:latest:14.0
 ARCHS = arm64 arm64e
-FINALPACKAGE = 1
 INSTALL_TARGET_PROCESSES = druid
 
 TWEAK_NAME = NoPastedFrom
